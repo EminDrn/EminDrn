@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emindrn&label=Profile%20views&color=0e75b6&style=flat" alt="emindrn" /> </p>
 
-- 🔭 I’m currently working on **.Net , Unity**
+- 🔭 I’m currently working on **.Net Core**
 
-- 🌱 I’m currently learning **.Net Core , Unity**
+- 🌱 I’m currently learning **.Net Core , React**
 
 - 📫 How to reach me **1eminduran@gmail.com**
 

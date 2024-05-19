@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **.Net Core**
 
-- 🌱 I’m currently learning **.Net Core , React**
+- 🌱 I’m currently learning **.Net Core , Unity**
 
 - 📫 How to reach me **1eminduran@gmail.com**
 
